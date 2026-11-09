@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: toolvault-library
+    runtime: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./public
+    envVars: []
