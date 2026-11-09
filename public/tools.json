@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-11-09T17:40:04.223Z",
+  "count": 7,
+  "tools": [
+    {
+      "id": "html-to-shorts-recorder.html",
+      "name": "HTML → WEBM Shorts Recorder (Offline)",
+      "filename": "html-to-shorts-recorder.html",
+      "url": "tools/html-to-shorts-recorder.html",
+      "category": "Video & Media",
+      "icon": "🎬",
+      "description": "Create or record content with browser-based media tools.",
+      "size": 12863
+    },
+    {
+      "id": "MultiQuizGeneratorTool.html",
+      "name": "Multi-Quiz Generator Pro",
+      "filename": "MultiQuizGeneratorTool.html",
+      "url": "tools/MultiQuizGeneratorTool.html",
+      "category": "Quiz & Tests",
+      "icon": "🧠",
+      "description": "Create, manage or practise quizzes and test content.",
+      "size": 65717
+    },
+    {
+      "id": "pdf merger 2.0.html",
+      "name": "PDF Optimizer & Merger Pro",
+      "filename": "pdf merger 2.0.html",
+      "url": "tools/pdf%20merger%202.0.html",
+      "category": "PDF & Documents",
+      "icon": "📄",
+      "description": "Work with test papers, PDFs and document utilities.",
+      "size": 22415
+    },
+    {
+      "id": "QUIZ BOT(1).html",
+      "name": "Quiz Bot Simulator",
+      "filename": "QUIZ BOT(1).html",
+      "url": "tools/QUIZ%20BOT(1).html",
+      "category": "Quiz & Tests",
+      "icon": "🧠",
+      "description": "Create, manage or practise quizzes and test content.",
+      "size": 842091
+    },
+    {
+      "id": "Quiz Maker(2).html",
+      "name": "Quiz Generator Tool",
+      "filename": "Quiz Maker(2).html",
+      "url": "tools/Quiz%20Maker(2).html",
+      "category": "Quiz & Tests",
+      "icon": "🧠",
+      "description": "Create, manage or practise quizzes and test content.",
+      "size": 139703
+    },
+    {
+      "id": "5 in 1.html",
+      "name": "Toolkit Hub — Sabhi Quiz & Notes Tools Ek Jagah",
+      "filename": "5 in 1.html",
+      "url": "tools/5%20in%201.html",
+      "category": "Toolkits",
+      "icon": "🧰",
+      "description": "A combined hub containing multiple study utilities.",
+      "size": 1012389
+    },
+    {
+      "id": "1. TEST SERIES MAKER.html",
+      "name": "UNIGRAM Test Paper to PDF Generator (Single Offline Tool)",
+      "filename": "1. TEST SERIES MAKER.html",
+      "url": "tools/1.%20TEST%20SERIES%20MAKER.html",
+      "category": "PDF & Documents",
+      "icon": "📄",
+      "description": "Work with test papers, PDFs and document utilities.",
+      "size": 52874
+    }
+  ]
+}
